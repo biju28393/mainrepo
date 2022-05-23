@@ -1,4 +1,2 @@
-FIRST LINE
-SECOND LINE
-THIRD LINE
+echo "hello world"
 
